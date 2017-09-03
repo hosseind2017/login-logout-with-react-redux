@@ -4,7 +4,7 @@ A basic react redux web application
 
 For run this project you must create a local postgresql database and config it
 
-For run project:
+then:
 
  npm install
 
