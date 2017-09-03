@@ -12,5 +12,7 @@ For run this project you must create a local postgresql database and config it:
 then:
 
  ```npm install```
+ 
+ ### Run
 
  ```npm start```
